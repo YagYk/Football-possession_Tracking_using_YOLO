@@ -26,9 +26,9 @@ This project implements a football possession tracking system using YOLO object 
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository :
    
-2. Install dependencies:
+2. Install dependencies :
    
 3. Download the YOLO model weights and place them in the `models/` directory.
 
