@@ -9,7 +9,7 @@ This project implements a football possession tracking system using YOLO object 
 - Team color assignment and player classification
 - Speed and distance estimation for players
 - Camera movement compensation
-- Bird's eye view transformation
+- Bird's eye level transformation
 
 ## Project Structure
 
@@ -38,7 +38,7 @@ This project implements a football possession tracking system using YOLO object 
 
 2. Run the inference:
    
-3. For full analysis with tracking:
+3. For full analysis with tracking :
    
 ## Requirements
 
@@ -60,5 +60,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- YOLOv8 by Ultralytics
+- YOLO v8 by Ultralytics
 - ByteTrack for object tracking
