@@ -4,7 +4,7 @@ This project implements a football possession tracking system using YOLO object 
 
 ## Features
 
-- Player detection and tracking using YOLOv8
+- Player detection and tracking using YOLO v8
 - Ball tracking and possession analysis
 - Team color assignment and player classification
 - Speed and distance estimation for players
